@@ -1,0 +1,2 @@
+[workspace]
+members = ["subproj1", "../test-repo2/subproj3"]

@@ -1,0 +1,5 @@
+[package]
+name = "subproj2"
+version = "0.1.0"
+authors = ["Kartikaya Gupta <kgupta@mozilla.com>"]
+workspace = "../../test-repo2"
